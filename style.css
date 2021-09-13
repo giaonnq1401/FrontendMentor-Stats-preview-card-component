@@ -1,0 +1,12 @@
+body
+{
+    font-family: Inter;
+    font-size: 15px;
+    background-color: hsl(233, 49%, 7%);
+    color: white;
+}
+
+span
+{
+    color: hsl(277, 64%, 61%);
+}
