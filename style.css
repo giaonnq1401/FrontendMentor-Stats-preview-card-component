@@ -122,21 +122,20 @@ footer
     color: var(--Soft-violet);
 }
 
-@media screen and (min-width: 1100px)
+@media screen and (min-width: 1000px)
 {
     .card
     {
         flex-direction: row;
         max-width: 950px;
         width: 100%;
-        height: 375px;
         justify-content: center;
     }
     .card-img
     {
-        background: var(--Soft-violet) url(./images/image-header-desktop.jpg) no-repeat center center/contain;
-        height: 375px;
-        width: 450px;
+        background: var(--Soft-violet) url(./images/image-header-desktop.jpg) no-repeat center/contain;
+        width: 48%;
+        height: 100%;
         border-radius: 0 8px 8px 0;
     }
     .desktop
@@ -150,8 +149,8 @@ footer
 
     .card-content
     {
-        width: 500px;
-        height: 375px;
+        width: 52%;
+        height: 100%;
         border-radius: 8px 0 0 8px;
     }
     .card-content .text
