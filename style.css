@@ -12,7 +12,7 @@
     --font-family-Inter: 'Inter';
 }
 
-*::before
+*::before, ::after
 {
     box-sizing: border-box;
     padding: 0;
@@ -122,21 +122,21 @@ footer
     color: var(--Soft-violet);
 }
 
-@media screen and (min-width: 1000px)
+@media screen and (min-width: 1100px)
 {
     .card
     {
         flex-direction: row;
-        max-width: 1440px;
+        max-width: 950px;
         width: 100%;
-        height: 405px;
+        height: 375px;
         justify-content: center;
     }
     .card-img
     {
         background: var(--Soft-violet) url(./images/image-header-desktop.jpg) no-repeat center center/contain;
-        height: 405px;
-        width: 490px;
+        height: 375px;
+        width: 450px;
         border-radius: 0 8px 8px 0;
     }
     .desktop
@@ -150,12 +150,14 @@ footer
 
     .card-content
     {
-        width: 510px;
+        width: 500px;
+        height: 375px;
         border-radius: 8px 0 0 8px;
     }
     .card-content .text
     {
         text-align: left;
+        margin: 10% 10%;
     }
     .card-content .text .stats
     {
