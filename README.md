@@ -29,6 +29,7 @@ Users should be able to:
 ![destop-preview](./screenshot/desktop-preview.png)
 
 - Mobile Preview:
+
 ![mobile-preview](./screenshot/mobile-preview.png)
 
 
