@@ -49,6 +49,7 @@ main
     height: 240px;
     width: 325px;
     background: var(--Soft-violet) url(./images/image-header-mobile.jpg) no-repeat center center/contain;
+    background-size: cover;
     background-blend-mode: multiply;
     opacity: 0.8;
     border-top-left-radius: 8px;
