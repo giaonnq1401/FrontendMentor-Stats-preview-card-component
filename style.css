@@ -140,6 +140,7 @@ footer
     .card-img
     {
         background: var(--Soft-violet) url(./images/image-header-desktop.jpg) no-repeat center/contain;
+        background-size: cover;
         width: 48%;
         height: 100%;
         border-radius: 0 8px 8px 0;
