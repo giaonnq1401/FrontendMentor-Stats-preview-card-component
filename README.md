@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Feedback and Live Site
 
-- Solution URL: [GitHub](https://github.com/giaonnq1401/Stats-preview-card-component)
-- Live Site URL: [GitHub Pages](https://giaonnq1401.github.io/Stats-preview-card-component/)
+- Solution URL: [GitHub](https://github.com/giaonnq1401/FrontendMentor-Stats-preview-card-component)
+- Live Site URL: [GitHub Pages](https://giaonnq1401.github.io/FrontendMentor-Stats-preview-card-component/)
 - Give Feedback on [FrontendMentor](https://www.frontendmentor.io/solutions/stats-preview-card-component-d02sBYn81)
 
 ## My process
